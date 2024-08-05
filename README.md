@@ -46,5 +46,5 @@ Here is a code snippet showing how to use the `CircleScoreIndicator` widget:
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1MUHoV4qJAlwB7vl-IZgf5pqEvRlCtxJK/view?usp=drivesdk)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1MUHoV4qJAlwB7vl-IZgf5pqEvRlCtxJK)
 

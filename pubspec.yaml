@@ -1,7 +1,7 @@
 name: circle_score_indicator
 description: "CircleScoreIndicator is a Flutter widget that visually represents wrong and right values using a circular progress indicator. This widget is useful for applications that need to display the ratio of correct and incorrect values in a visually appealing way."
 version: 0.0.1
-homepage:
+homepage: https://github.com/hanan0007/circle_score_indicator.git
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
